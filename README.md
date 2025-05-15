@@ -29,3 +29,5 @@ The underlying atomic processes in a quantum engine would likely involve manipul
 [Atomic Simulator](https://chatgpt.com/g/g-QYk4U8bhT-atomic-simulator)
 <br>
 [Nuclear Chemistry Simulator](https://chatgpt.com/g/g-KaoQIF4e8-nuclear-chemistry-simulator)
+<br>
+[Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
