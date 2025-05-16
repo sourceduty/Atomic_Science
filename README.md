@@ -33,3 +33,5 @@ The underlying atomic processes in a quantum engine would likely involve manipul
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
 <br>
 [New Science](https://github.com/sourceduty/New_Science)
+<br>
+[Plasma Propulsion](https://chatgpt.com/g/g-67e74fab524081918e2f34d56b10b806-plasma-propulsion)
