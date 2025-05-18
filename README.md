@@ -37,3 +37,5 @@ The underlying atomic processes in a quantum engine would likely involve manipul
 [Plasma Propulsion](https://chatgpt.com/g/g-67e74fab524081918e2f34d56b10b806-plasma-propulsion)
 <br>
 [Cyclotron Simulation](https://github.com/sourceduty/Cyclotron_Simulation)
+<br>
+[Isotope Engineer](https://chatgpt.com/g/g-RRyTFbzOP-isotope-engineer)
