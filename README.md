@@ -22,8 +22,12 @@ The underlying atomic processes in a quantum engine would likely involve manipul
 
 #
 
-[Atomic Devices](https://chatgpt.com/g/g-67e77b9ad1c8819187e01263c44a0375-atomic-devices)
-<br>
+![Nuclear Reactor](https://github.com/user-attachments/assets/353ba33f-5f93-4249-8cbf-35d985816772)
+
+[Atomic Devices](https://chatgpt.com/g/g-67e77b9ad1c8819187e01263c44a0375-atomic-devices) accelerates the discovery, analysis, and optimization of novel nanoscale devices such as molecular electronics, quantum dots, and single-atom transistors. By leveraging advanced machine learning techniques—particularly graph neural networks, kernel-based models, and deep representation learning—this GPT maps atomic structures to key physical properties including electronic transport behavior, band gaps, charge distributions, and quantum confinement effects. Users can input atomic coordinates, bonding patterns, or molecular topologies of candidate systems, and the model will predict performance metrics and suggest structural modifications to enhance functionality or stability. Embedded with integrated knowledge from quantum chemistry, density functional theory (DFT), and molecular dynamics, the model serves as a virtual co-designer, enabling rapid screening of chemical and structural spaces without relying solely on time-consuming quantum simulations. Its purpose is to guide users—whether theorists, computational scientists, or experimentalists—through iterative design loops that fuse data-driven predictions with physical intuition to accelerate the development of next-generation atomic-scale technologies.
+
+#
+
 [Computational Atomics](https://chatgpt.com/g/g-D8hkmPnIE-computational-atomics)
 <br>
 [Atomic Simulator](https://chatgpt.com/g/g-QYk4U8bhT-atomic-simulator)
