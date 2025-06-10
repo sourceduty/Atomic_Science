@@ -41,3 +41,5 @@ The underlying atomic processes in a quantum engine would likely involve manipul
 [Cyclotron Simulation](https://github.com/sourceduty/Cyclotron_Simulation)
 <br>
 [Isotope Engineer](https://chatgpt.com/g/g-RRyTFbzOP-isotope-engineer)
+<br>
+[Wireless Power](https://github.com/sourceduty/Wireless_Power)
