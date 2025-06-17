@@ -28,11 +28,15 @@ The underlying atomic processes in a quantum engine would likely involve manipul
 
 #
 
-![Artificial Neuron](https://github.com/user-attachments/assets/0d8e9b6d-a09a-4ebb-a8a1-a604d829a9b4)
-
 An artificial atom is a precisely controlled quantum system that mimics the behavior of a real atom by confining electrons or quasiparticles in small regions of space, such as quantum dots, superconducting circuits, or trapped ions. These systems are engineered to have discrete energy levels, much like natural atoms, allowing researchers to study atomic-like phenomena—including electronic transitions, spin states, and coupling to electromagnetic fields—under tunable and often scalable conditions. Artificial atoms are crucial in fields like quantum computing, nanotechnology, and photonics because they allow manipulation of quantum states for information processing or sensing applications. 
 
 [Artificial Atom](https://chatgpt.com/g/g-684f84c837e081918aa56c880773f969-artificial-atom)  is a custom GPT that specializes in artificial atom modeling using quantum mechanical simulations. It guides users through setting up and interpreting computational models that represent single atoms or small atomic clusters. By solving the Schrödinger equation with techniques such as density functional theory or more advanced wavefunction-based methods, this GPT helps users explore key atomic-scale properties—like electronic structure, bond formation, and vibrational spectra—offering insights that support research in chemistry, physics, and materials science.
+
+#
+
+![CANDU](https://github.com/user-attachments/assets/3da7b562-2f4b-4c28-9822-776b05396f9a)
+
+[CANDU](https://chatgpt.com/g/g-6851521302f48191982e2c85a5133d6f-candu) is a custom GPT designed to simulate the safe and efficient operation of a CANDU (Canada Deuterium Uranium) nuclear reactor. A CANDU reactor is a type of pressurized heavy-water reactor developed in Canada that uses natural uranium as fuel and heavy water (deuterium oxide) as both moderator and coolant. Unique for its ability to refuel while operating, the CANDU design enhances efficiency and reduces downtime. This GPT helps guide users through critical reactor operation steps, such as initializing systems, monitoring neutron flux, adjusting control rods, managing thermal transfer to steam generators, and ensuring safety through emergency shutdown systems. It serves as both an educational and operational assistant for understanding and simulating CANDU reactor dynamics.
 
 #
 
