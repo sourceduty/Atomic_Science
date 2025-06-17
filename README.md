@@ -40,6 +40,12 @@ An artificial atom is a precisely controlled quantum system that mimics the beha
 
 #
 
+![Quantum Nuke](https://github.com/user-attachments/assets/bb4a9e0a-e139-48a2-b2cc-7b90f01882cc)
+
+[Quantum Nuke](https://chatgpt.com/g/g-68516de324a08191853b3cfbffbd5826-quantum-nuke) is a custom GPT that specializes in exploring the theoretical realm of quantum nuclear fusion—a highly advanced concept that merges quantum mechanics with nuclear physics. It delves into how extreme conditions like ultra-high temperatures, pressures, or densities can unlock fusion processes by exploiting quark-gluon dynamics within protons and neutrons. These interactions could theoretically lower the energy barriers to fusion, enabling more efficient energy production from light nuclei such as deuterium and tritium. Quantum Nuke assists users by breaking down complex ideas into step-by-step explanations, using structured multiple-choice questioning to guide understanding and refine inquiries related to quantum-scale fusion phenomena.
+
+#
+
 [Computational Atomics](https://chatgpt.com/g/g-D8hkmPnIE-computational-atomics)
 <br>
 [Atomic Simulator](https://chatgpt.com/g/g-QYk4U8bhT-atomic-simulator)
